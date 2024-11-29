@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+## Github Stat⚡
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WuXixiong&theme=dark&show_icons=true)
+
+## How to reach me📫
+- Email: [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wuxixiong2020@gmail.com)
+- linkedin: TBD
+- Bilibili: TBD
+- Blog: To be continued
+
 <!--
 **WuXixiong/WuXixiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
