@@ -1,4 +1,4 @@
-# Hi, I'm Xixiong Wu 👋
+# Hi, Here is Xixiong Wu 👋
 
 I'm a software developer with a data science background, focused on building practical backend systems, data-processing tools, and automation workflows.
 
@@ -68,9 +68,3 @@ I have worked on practical internal systems for business operations, focusing on
 ---
 
 Thanks for visiting my profile.
-"""
-
-output_path = Path("/mnt/data/GitHub_Profile_README.md")
-output_path.write_text(readme_content, encoding="utf-8")
-
-output_path.as_posix()
