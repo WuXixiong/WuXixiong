@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme_content = """# Hi, I'm Xixiong Wu 👋
+# Hi, I'm Xixiong Wu 👋
 
 I'm a software developer with a data science background, focused on building practical backend systems, data-processing tools, and automation workflows.
 
